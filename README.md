@@ -24,6 +24,10 @@
  * 5.5.  MongoDB
  
 # 6.  分布式消息服务系统
+ * 6.1.  ActiveMQ
+ * 6.2.  RabbitMQ
+ * 6.3.  RocketMQ
+ * 6.4.  kafka
 
 # 7.  分布式监控
  * 7.1.  Nagios
