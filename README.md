@@ -6,7 +6,7 @@
 目录
 -----
 
-# 分布式系统基础知识
+# [分布式系统基础知识](https://github.com/stevenli91748/Distributed-System/tree/master/Fundametal%20knowledge)
 
  
 
