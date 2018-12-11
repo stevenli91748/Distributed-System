@@ -34,6 +34,7 @@
  *  Mesos
  
 ## 4.  分布式文件系统
+ *  分布式文件系统的实现
 
 ## 5.  分布式存储系统
  *   Bigtable
@@ -53,19 +54,21 @@
  *   Nagios
  *   Zabbix
  *   Consul
+ 
+## 8. 分布式协调 
  *   Zookeeper
  
-## 8.  分布式版本控制系统
+## 9.  分布式版本控制系统
  *   Bazaar
  *   Mercurial
  *   Git
  
 #  [分布式服务框架](https://github.com/stevenli91748/Distributed-System/tree/master/Service%20framework)
 
-## 9.  常用的 RPC 框架
+## 10.  常用的 RPC 框架
  
 
-## 10. 
+## 11. 
 
 
 
