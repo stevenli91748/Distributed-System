@@ -27,7 +27,7 @@
  *  Redis
 
 ## 3.  分布式计算系统
- *   MapReduce
+ *  MapReduce
  *  Hadoop
  *  Spark
  *  Mesos
@@ -35,28 +35,28 @@
 ## 4.  分布式文件系统
 
 ## 5.  分布式存储系统
- * 5.1.  Bigtable
- * 5.2.  HBase
- * 5.3.  Cassandra
- * 5.4.  Memcached
- * 5.5.  MongoDB
+ *   Bigtable
+ *   HBase
+ *  Cassandra
+ *   Memcached
+ *  MongoDB
  
 ## 6.  分布式消息服务系统
- * 6.1.  ActiveMQ
- * 6.2.  RabbitMQ
- * 6.3.  RocketMQ
- * 6.4.  kafka
+ *   ActiveMQ
+ *   RabbitMQ
+ *   RocketMQ
+ *   kafka
 
 ## 7.  分布式监控
- * 7.1.  Nagios
- * 7.2.  Zabbix
- * 7.3.  Consul
- * 7.4.  Zookeeper
+ *   Nagios
+ *   Zabbix
+ *   Consul
+ *   Zookeeper
  
 ## 8.  分布式版本控制系统
- * 8.1.  Bazaar
- * 8.2.  Mercurial
- * 8.3.  Git
+ *   Bazaar
+ *   Mercurial
+ *   Git
  
 #  分布式服务框架
 
