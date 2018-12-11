@@ -19,7 +19,7 @@
  *  容器技术架构
  *  Serverless 架构
 
-#  分布式系统的种类
+#  [分布式系统的种类](https://github.com/stevenli91748/Distributed-System/tree/master/Types%20of%20system)
 
 ## 1.  分布式操作系统
 
