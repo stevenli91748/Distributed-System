@@ -24,13 +24,13 @@
 ## 1.  分布式操作系统
 
 ## 2.  分布式缓存系统
- * 2.1.  Redis
+ *  Redis
 
 ## 3.  分布式计算系统
- * 3.1.  MapReduce
- * 3.2.  Hadoop
- * 3.3.  Spark
- * 3.4.  Mesos
+ *   MapReduce
+ *  Hadoop
+ *  Spark
+ *  Mesos
  
 ## 4.  分布式文件系统
 
