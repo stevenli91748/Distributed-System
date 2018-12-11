@@ -1,9 +1,9 @@
 # Distributed-System
 
-面试
+[面试](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
 ---
 
-[目录](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
+目录
 -----
 
 # 分布式系统基础知识
