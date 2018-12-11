@@ -3,7 +3,7 @@
 面试
 ---
 
-[目录](../Interview/README.md)
+[目录](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
 -----
 
 # 分布式系统基础知识
