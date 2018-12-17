@@ -90,3 +90,5 @@
  * [java实现分布式项目搭建的方法](https://www.jb51.net/article/138615.htm)
  * [Java系统的高并发解决方法详解](https://www.jb51.net/article/124145.htm)
  * [java 分布式与集群的区别和联系](https://www.jb51.net/article/105828.htm)
+ * [详解Java如何实现基于Redis的分布式锁](https://www.jb51.net/article/91484.htm)
+ * [Java分布式锁的三种实现方案](https://www.jb51.net/article/103617.htm)
