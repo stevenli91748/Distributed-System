@@ -94,3 +94,4 @@
  * [Java分布式锁的三种实现方案](https://www.jb51.net/article/103617.htm)
  * [java高并发写入用户信息到数据库的几种方法](https://www.jb51.net/article/107279.htm)
  * [Java使用代码模拟高并发操作的示例](https://www.jb51.net/article/139429.htm)
+ * [WHAT WE TALK ABOUT WHEN WE TALK ABOUT DISTRIBUTED SYSTEMS](http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
