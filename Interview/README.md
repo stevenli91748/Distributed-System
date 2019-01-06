@@ -13,7 +13,24 @@
 
 </details>
 
-# 57、从分布式系统部署角度考虑，分哪几层？
-# 64、分布式系统设计你会考虑哪些策略？
-# 65、最常见的数据分布方式是什么？
+<details>
+<summary>3. 从分布式系统部署角度考虑，分哪几层？</summary>
+
+
+
+</details>
+
+<details>
+<summary>4. 分布式系统设计你会考虑哪些策略？</summary>
+
+
+
+</details>
+
+<details>
+<summary>5. 最常见的数据分布方式是什么？</summary>
+
+
+
+</details>
 
