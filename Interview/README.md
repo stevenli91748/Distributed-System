@@ -1,6 +1,6 @@
 
 <details>
-<summary>1. 分布式和集群的区别</summary>
+<summary>1. 单机 分布式和集群的区别</summary>
 
 分布式：一个业务分拆多个子业务，部署在不同的服务器上
 
