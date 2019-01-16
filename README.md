@@ -96,3 +96,19 @@
  * [Java使用代码模拟高并发操作的示例](https://www.jb51.net/article/139429.htm)
  * [WHAT WE TALK ABOUT WHEN WE TALK ABOUT DISTRIBUTED SYSTEMS](http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
  * [亿级Web系统搭建：单机到分布式集群](https://blog.csdn.net/u013256816/article/details/48707505)
+ 
+ -石杉的架构笔记
+
+* [拜托，面试请不要再问我TCC分布式事务的实现原理！--石杉的架构笔记](https://mp.weixin.qq.com/s/mIW1_K5fAoa2OlSLdXSHpQ)
+* [【坑爹呀】最终一致性分布式事务如何保障实际生产中99.99%高可用？--石杉的架构笔记](https://mp.weixin.qq.com/s/yRDUQtVPz5eqCx961xL6nw)
+* [拜托，面试请不要再问我Redis分布式锁的实现原理！](https://mp.weixin.qq.com/s/y_Uw3P2Ll7wvk_j5Fdlusw)
+* [每秒上千订单场景下的分布式锁高并发优化实践！](https://mp.weixin.qq.com/s/RLeujAj5rwZGNYMD0uLbrg)
+* [【七张图】彻底讲清楚ZooKeeper分布式锁的实现原理！](https://mp.weixin.qq.com/s/jn4LkPKlWJhfUwIKkp3KpQ)
+* [【温故知新】分布式事务及分布式锁系列文章总结](https://mp.weixin.qq.com/s/DltfG12wVttIyDUayeaL_A)
+
+
+
+
+
+
+
