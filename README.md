@@ -63,6 +63,8 @@
  *   Mercurial
  *   Git
  
+## 10. 分布式事务
+
 #  [分布式服务框架](https://github.com/stevenli91748/Distributed-System/tree/master/Service%20framework)
 
 ## 10.  常用的 RPC 框架
@@ -105,6 +107,9 @@
 * [每秒上千订单场景下的分布式锁高并发优化实践！](https://mp.weixin.qq.com/s/RLeujAj5rwZGNYMD0uLbrg)
 * [【七张图】彻底讲清楚ZooKeeper分布式锁的实现原理！](https://mp.weixin.qq.com/s/jn4LkPKlWJhfUwIKkp3KpQ)
 * [【温故知新】分布式事务及分布式锁系列文章总结](https://mp.weixin.qq.com/s/DltfG12wVttIyDUayeaL_A)
+* [兄弟，用大白话给你讲小白都能看懂的分布式系统容错架构](https://mp.weixin.qq.com/s/DKf63ZDJQKoEiOmGqn3NxQ)
+* [高并发场景下，如何保证生产者投递到消息中间件的消息不丢失？](https://mp.weixin.qq.com/s/r2_o5wa6Gn94NY4ViRnjpA)
+* [面试大杀器：消息中间件如何实现消费吞吐量的百倍优化？](https://mp.weixin.qq.com/s/vZ4KVC2eGmssnQUyIKgzfw)
 
 
 
