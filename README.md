@@ -99,6 +99,7 @@
  * [WHAT WE TALK ABOUT WHEN WE TALK ABOUT DISTRIBUTED SYSTEMS](http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
  * [亿级Web系统搭建：单机到分布式集群](https://blog.csdn.net/u013256816/article/details/48707505)
  * [还不理解“分布式事务”？这篇给你讲清楚！](https://cloud.tencent.com/info/7aee761848382a55d59b6619849abf64.html)
+ * [分布式系统关注点——想通关「限流」？只要这一篇](https://cloud.tencent.com/info/03caa5eae776645a87cb6304d33c5ba2.html)
  
  -石杉的架构笔记
 
