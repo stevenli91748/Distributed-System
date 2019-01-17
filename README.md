@@ -88,7 +88,7 @@
  * 大规模分布式系统架构与设计实战
  
  # 有用的参考
- 
+ * [我们来谈下高并发和分布式中的幂等处理](https://juejin.im/post/5c05f233e51d4524860fc51a)
  * [java实现分布式项目搭建的方法](https://www.jb51.net/article/138615.htm)
  * [Java系统的高并发解决方法详解](https://www.jb51.net/article/124145.htm)
  * [java 分布式与集群的区别和联系](https://www.jb51.net/article/105828.htm)
