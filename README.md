@@ -43,7 +43,7 @@
  *   Memcached
  *  MongoDB
  
-## 6.  分布式消息服务系统
+## [6.  分布式消息服务系统](https://github.com/stevenli91748/Message-Server-System/blob/master/README.md)
  *   分布式消息队列的实现
  *   ActiveMQ
  *   RabbitMQ
