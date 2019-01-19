@@ -25,3 +25,6 @@
 * [3 台机器搞定一个 Redis 高可用架构](https://mp.weixin.qq.com/s/fwmC4TM593SG25wl58Vpqg)
 * [一个致命 Redis 命令，损失 400 万！](https://mp.weixin.qq.com/s/MzkvQG2mFyvTNegFX52ztg)
 * [Redis 这么火，它都解决了哪些问题？](https://mp.weixin.qq.com/s/vzIJ9jlaQGcarNAAH2tkNg)
+* [Redis中文网](http://www.redis.cn/)
+* [redis 菜鸟教程](http://www.runoob.com/redis/redis-tutorial.html)
+
