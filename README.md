@@ -25,7 +25,7 @@
 
 ## 2.  分布式缓存系统
  *  分布式缓存的实现
- *  [Redis](https://github.com/stevenli91748/Distributed-System/blob/master/Types%20of%20system/Redis/README.md)
+ *  [Redis](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
 
 ## 3.  分布式计算系统
  *  MapReduce
