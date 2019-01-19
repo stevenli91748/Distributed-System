@@ -23,7 +23,7 @@
 
 ## 1.  分布式操作系统
 
-## 2.  分布式缓存系统
+## [2.  分布式缓存系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/distribute%20cache/README.md)
  *  分布式缓存的实现
  *  [Redis](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
 
