@@ -88,6 +88,7 @@
  * 大规模分布式系统架构与设计实战
  
  # 有用的参考
+ * [分布式系统(Distributed System)资料](https://www.bbsmax.com/A/obzbk3LMJE/)
  * [架构设计分布式技术干货整理](https://mp.weixin.qq.com/s/Wd73-YkbiKFVtuc0Ripn0Q)
  * [Zookeeper 集群安装配置，超详细，速度收藏](https://mp.weixin.qq.com/s/5APHlfBgNIwrIUPaPjw6qQ)
  * [我们来谈下高并发和分布式中的幂等处理](https://juejin.im/post/5c05f233e51d4524860fc51a)
