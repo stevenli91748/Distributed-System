@@ -21,7 +21,7 @@
 
 #  [分布式系统的种类](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/README.md)
 
-## 1.  分布式操作系统
+## [1.  分布式操作系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20operation%20system/README.md)
 
 ## [2.  分布式缓存系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/distribute%20cache/README.md)
  *  分布式缓存的实现
