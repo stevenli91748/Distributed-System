@@ -51,7 +51,34 @@
 <details>
 <summary>最常见的数据分布方式是什么？</summary>
 
+</details>
 
+<details>
+<summary>一致性，高可用，网络分区容忍性为何只能三选二</summary>
 
 </details>
 
+<details>
+<summary>为什么网络分区容忍性必须要被考虑</summary>
+
+</details>
+
+<details>
+<summary>CAP在实际应用中真的可靠么？</summary>
+
+</details>
+
+<details>
+<summary>BASE出现的原因</summary>
+
+</details>
+
+<details>
+<summary>为什么BASE更容易实现，更适合实际应用</summary>
+
+</details>
+
+<details>
+<summary>BASE可以通过哪些技术去实现呢？</summary>
+
+</details>
