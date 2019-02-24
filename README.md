@@ -107,6 +107,7 @@
  * [还不理解“分布式事务”？这篇给你讲清楚！](https://cloud.tencent.com/info/7aee761848382a55d59b6619849abf64.html)
  * [分布式系统关注点——想通关「限流」？只要这一篇](https://cloud.tencent.com/info/03caa5eae776645a87cb6304d33c5ba2.html)
  * [分布式ID生成器的解决方案总结](https://mp.weixin.qq.com/s/cTocuZg6Vm3G1EaPtu544w)
+ * [深入理解分布式事务,高并发下分布式事务的解决方案](https://blog.csdn.net/mine_song/article/details/64118963)
  
  -石杉的架构笔记
 
