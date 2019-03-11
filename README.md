@@ -91,6 +91,7 @@
  * 大规模分布式系统架构与设计实战
  
  # 有用的参考
+ * [Java程序员进阶必知的分布式系统专业术语分析](https://blog.csdn.net/javaxuexi123/article/details/80508935)
  * [分布式系统(Distributed System)资料](https://www.bbsmax.com/A/obzbk3LMJE/)
  * [架构设计分布式技术干货整理](https://mp.weixin.qq.com/s/Wd73-YkbiKFVtuc0Ripn0Q)
  * [Zookeeper 集群安装配置，超详细，速度收藏](https://mp.weixin.qq.com/s/5APHlfBgNIwrIUPaPjw6qQ)
