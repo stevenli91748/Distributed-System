@@ -91,6 +91,7 @@
  * 大规模分布式系统架构与设计实战
  
  # 有用的参考
+ * [（重点）深入理解Java分布式架构](https://blog.csdn.net/yifanSJ/article/details/79098855)
  * [Java程序员进阶必知的分布式系统专业术语分析](https://blog.csdn.net/javaxuexi123/article/details/80508935)
  * [分布式系统(Distributed System)资料](https://www.bbsmax.com/A/obzbk3LMJE/)
  * [架构设计分布式技术干货整理](https://mp.weixin.qq.com/s/Wd73-YkbiKFVtuc0Ripn0Q)
