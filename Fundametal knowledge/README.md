@@ -16,7 +16,7 @@
   * [2.1.  进程和线程](#21-进程和线程)
 
 ## 3. 通信
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qFQZzy9/image.jpg" alt="image" border="0"></a>
 ## 4. 一致性
 
 ## 5. 容错性
