@@ -5,10 +5,8 @@
 
 目录
 -----
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qFQZzy9/image.jpg" alt="image" border="0"></a>
 # [分布式系统基础知识](https://github.com/stevenli91748/Distributed-System/tree/master/Fundametal%20knowledge)
-
- 
 
 # [分布式系统架构体系](https://github.com/stevenli91748/Distributed-System/tree/master/Architecture)
 
