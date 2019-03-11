@@ -1,7 +1,7 @@
 #  分布式系统基础知识
 目录
 ---
-## 分布式系统的基本术语
+## [分布式系统的基本术语](https://github.com/stevenli91748/Distributed-System/blob/master/Fundametal%20knowledge/分布式系统的基本术语.md)
 
 ##  1. 概述
  
