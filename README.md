@@ -112,7 +112,7 @@
  * [分布式ID生成器的解决方案总结](https://mp.weixin.qq.com/s/cTocuZg6Vm3G1EaPtu544w)
  * [深入理解分布式事务,高并发下分布式事务的解决方案](https://blog.csdn.net/mine_song/article/details/64118963)
  * [常用的分布式事务解决方案介绍有多少种？](https://blog.csdn.net/yanpenglei/article/details/79125578)
- 
+ * [分布式系统的唯一id生成算法你了解吗](https://juejin.im/post/5c6be4086fb9a04a060570df)
  -石杉的架构笔记
 
 * [拜托，面试请不要再问我TCC分布式事务的实现原理！--石杉的架构笔记](https://mp.weixin.qq.com/s/mIW1_K5fAoa2OlSLdXSHpQ)
