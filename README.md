@@ -92,6 +92,7 @@
  * 大型网站技术核心原理与案例分析
  
  # 有用的参考
+ * []()
  * [（重点）深入理解Java分布式架构](https://blog.csdn.net/yifanSJ/article/details/79098855)
  * [Java程序员进阶必知的分布式系统专业术语分析](https://blog.csdn.net/javaxuexi123/article/details/80508935)
  * [分布式系统(Distributed System)资料](https://www.bbsmax.com/A/obzbk3LMJE/)
@@ -128,6 +129,7 @@
 * [高并发场景下，如何保证生产者投递到消息中间件的消息不丢失？](https://mp.weixin.qq.com/s/r2_o5wa6Gn94NY4ViRnjpA)
 * [面试大杀器：消息中间件如何实现消费吞吐量的百倍优化？](https://mp.weixin.qq.com/s/vZ4KVC2eGmssnQUyIKgzfw)
 * [分布式之消息队列复习精讲](http://www.cnblogs.com/rjzheng/p/8994962.html?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+* [Java同学找工作最懵圈的问题：到底啥是分布式系统开发经验？](https://mp.weixin.qq.com/s/Z7jdt3yfINWV6NVl7u9PuA)
 
 
 
