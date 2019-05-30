@@ -62,7 +62,7 @@
  *   Mercurial
  *   Git
  
-## [10. 分布式事务](https://github.com/stevenli91748/)
+## [10. 分布式事务](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/transection/分布式事务.md)
 
 ## [11. 分布式锁]()
 
