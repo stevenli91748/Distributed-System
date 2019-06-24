@@ -132,7 +132,7 @@
  * [分布式系统的唯一id生成算法你了解吗](https://juejin.im/post/5c6be4086fb9a04a060570df)
  * [一个比较不错的大型分布式网站架构技术总结，可做参考](https://blog.csdn.net/hjm4702192/article/details/79612611)
  * [分布式之消息队列复习精讲](http://www.cnblogs.com/rjzheng/p/8994962.html?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
- 
+ * [我理解的分布式系统](https://blog.csdn.net/lpd_tech/article/details/88122062)
  -石杉的架构笔记
 
 * [拜托，面试请不要再问我TCC分布式事务的实现原理！--石杉的架构笔记](https://mp.weixin.qq.com/s/mIW1_K5fAoa2OlSLdXSHpQ)
