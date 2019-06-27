@@ -1,3 +1,12 @@
+<details>
+<summary>最大并发连接数</summary>
+最大并发连接数：防火墙或代理服务器对其业务信息流的处理能力，是防火墙能够同时处理的点对点连接的最大数目；
+</details>
+
+<details>
+<summary>最大会话数</summary>
+所有用户要通过防火墙上网，要打开很多个窗口或Web页面发生的状态就叫做会话，防火墙所能处理的最大限额就交最大会话数。
+</details>
 
 <details>
 <summary>1. 单机 分布式和集群的区别</summary>
