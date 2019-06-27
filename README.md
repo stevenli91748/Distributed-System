@@ -150,7 +150,7 @@
 * [Java同学找工作最懵圈的问题：到底啥是分布式系统开发经验？](https://mp.weixin.qq.com/s/Z7jdt3yfINWV6NVl7u9PuA)
 * [几种分布式调用技术的比较 -- RPC VS REST](https://blog.csdn.net/iter_zc/article/details/39341983)
 * [JAVA中都有哪几种分布式实现方式,各有什么优缺点](http://www.dewen.net.cn/q/2430/JAVA中都有哪几种分布式实现方式%2C各有什么优缺点)
-
+* [SkyWalking jvm指标采集与存储](https://blog.csdn.net/dw147258dw/article/details/93711710)
 
 
 
