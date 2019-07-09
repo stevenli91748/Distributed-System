@@ -34,6 +34,54 @@
 
 </details>
 
+<details>
+<summary>分布式ID生成器</summary>
+
+ * [分布式ID生成器](https://soulmachine.gitbooks.io/system-design/content/cn/distributed-id-generator.html)
+
+</details>
+
+<details>
+<summary>短网址系统(TinyURL)</summary>
+
+ * [短网址系统(TinyURL)](https://soulmachine.gitbooks.io/system-design/content/cn/tinyurl.html)
+
+</details>
+
+<details>
+<summary>定时任务调度器</summary>
+
+ * [定时任务调度器](https://soulmachine.gitbooks.io/system-design/content/cn/task-scheduler.html)
+
+</details>
+
+<details>
+<summary>API限速</summary>
+
+ * [API限速](https://soulmachine.gitbooks.io/system-design/content/cn/api-rate-limiting.html)
+
+</details>
+
+<details>
+<summary>线程安全的HashMap</summary>
+
+ * [线程安全的HashMap](https://soulmachine.gitbooks.io/system-design/content/cn/hashmap.html)
+
+</details>
+
+<details>
+<summary>最近一个小时内访问频率最高的10个IP</summary>
+
+ * [最近一个小时内访问频率最高的10个IP](https://soulmachine.gitbooks.io/system-design/content/cn/top-k-frequent-ip-in-one-hour.html)
+
+</details>
+
+<details>
+<summary>Key-Value存储引擎</summary>
+
+ * [Key-Value存储引擎](https://soulmachine.gitbooks.io/system-design/content/cn/key-value-store.html)
+
+</details>
 
 
 
@@ -55,9 +103,14 @@
 
 
 
+---
 
+<details>
+<summary>PageRank算法</summary>
 
+ * [PageRank算法]()
 
+</details>
 
 <details>
 <summary> 什么是分布式系统？</summary>
