@@ -110,6 +110,7 @@
  * 大型网站技术核心原理与案例分析
  
  # 有用的参考
+ * [一篇读懂分布式架构下的负载均衡技术：分类、原理、算法、常见方案等](http://www.52im.net/thread-2494-1-1.html)
  * [IT技术精华网关注搜索、分布式系统、云计算、系统架构设计、性能调优、Web开发、数据挖掘、推荐系统](http://www.chepoo.com)
  * [（重点）深入理解Java分布式架构](https://blog.csdn.net/yifanSJ/article/details/79098855)
  * [Java程序员进阶必知的分布式系统专业术语分析](https://blog.csdn.net/javaxuexi123/article/details/80508935)
