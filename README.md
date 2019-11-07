@@ -94,7 +94,7 @@
 
  * [Java分布式进阶](https://www.bilibili.com/video/av58251897/?spm_id_from=333.788.videocard.10)
  * [中华石杉老师-21天互联网Java进阶面试训练营（分布式篇](https://www.bilibili.com/video/av71506934/?spm_id_from=333.788.videocard.15)
-
+ * [分布式技术难点解决方案](https://www.bilibili.com/video/av63568054/?p=19)
 
 # 参考书籍
 
