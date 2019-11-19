@@ -97,6 +97,7 @@
  * [分布式技术难点解决方案](https://www.bilibili.com/video/av63568054/?p=19)
  * [Java分布式锁没那么简单,并发量暴增我们的锁怎么办](https://www.bilibili.com/video/av69188361)
  * [从零开始 全面揭秘分布式任务调度](https://www.bilibili.com/video/av37409563/?spm_id_from=333.788.videocard.10)
+ * [最牛Java分布式架构全套视频教程](https://www.bilibili.com/video/av63095169?p=6)
 
 # 参考书籍
 
