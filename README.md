@@ -99,7 +99,8 @@
  * [从零开始 全面揭秘分布式任务调度](https://www.bilibili.com/video/av37409563/?spm_id_from=333.788.videocard.10)
  * [最牛Java分布式架构全套视频教程](https://www.bilibili.com/video/av63095169?p=6)
  * [阿里神秘技术内幕解密~分布式架构下的数据一致性技术解析](https://www.bilibili.com/video/av38331384?from=search&seid=5320849185764424951)
-
+ * [微服务架构需要解决的各种问题--Dubbo Zookeeper Nginx API网关 ](https://www.bilibili.com/video/av65833021?p=13)
+ 
 # 参考书籍
 
  * 人人都是架构师  分布式系统架构落地与瓶颈突破
