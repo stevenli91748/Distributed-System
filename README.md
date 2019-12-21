@@ -162,6 +162,6 @@
 * [几种分布式调用技术的比较 -- RPC VS REST](https://blog.csdn.net/iter_zc/article/details/39341983)
 * [JAVA中都有哪几种分布式实现方式,各有什么优缺点](http://www.dewen.net.cn/q/2430/JAVA中都有哪几种分布式实现方式%2C各有什么优缺点)
 * [SkyWalking jvm指标采集与存储](https://blog.csdn.net/dw147258dw/article/details/93711710)
-
+* [超详细！CentOS 7 + Hadoop3.0.0 搭建伪分布式集群](https://www.cnblogs.com/thousfeet/p/8618696.html)
 
 
