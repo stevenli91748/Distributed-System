@@ -91,6 +91,7 @@
 ##  3.  Spring Cloud
 . 
 # 分布式视频
+ * [大型分布式网站架构技术](https://www.bilibili.com/video/av64277303)
  * [分布式基础专题](https://www.bilibili.com/video/av65840085/?spm_id_from=333.788.videocard.19)
  * [Java分布式进阶](https://www.bilibili.com/video/av58251897/?spm_id_from=333.788.videocard.10)
  * [中华石杉老师-21天互联网Java进阶面试训练营（分布式篇](https://www.bilibili.com/video/av71506934/?spm_id_from=333.788.videocard.15)
