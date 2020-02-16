@@ -104,6 +104,7 @@
  * [千锋Java：分布式基础知识点教程](https://www.bilibili.com/video/av45732297?from=search&seid=15013736168332447863)
  * [java高并发分布式SSM项目实战](https://space.bilibili.com/7028047/channel/detail?cid=40223)
  * [[全面]JAVA分布式架构师项目实战Springboot+MyBatis+RocketMQ+Zookeeper](https://www.bilibili.com/video/av46875560/?spm_id_from=333.788.videocard.10)
+ * [大型分布式项目项目实战系统架构+数据库设计+各类支付方式详解+实战大型](https://www.bilibili.com/video/av70430062?from=search&seid=1230906880023099423)
 # 参考书籍
 
  * 人人都是架构师  分布式系统架构落地与瓶颈突破
