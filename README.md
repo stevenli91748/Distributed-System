@@ -103,6 +103,7 @@
  * [微服务架构需要解决的各种问题--Dubbo Zookeeper Nginx API网关 ](https://www.bilibili.com/video/av65833021?p=13)
  * [千锋Java：分布式基础知识点教程](https://www.bilibili.com/video/av45732297?from=search&seid=15013736168332447863)
  * [java高并发分布式SSM项目实战](https://space.bilibili.com/7028047/channel/detail?cid=40223)
+ * [[全面]JAVA分布式架构师项目实战Springboot+MyBatis+RocketMQ+Zookeeper](https://www.bilibili.com/video/av46875560/?spm_id_from=333.788.videocard.10)
 # 参考书籍
 
  * 人人都是架构师  分布式系统架构落地与瓶颈突破
