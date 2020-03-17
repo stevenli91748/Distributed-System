@@ -121,6 +121,7 @@
  * 大型网站技术核心原理与案例分析
  
  # 有用的参考
+ * [为什么要用分布式架构，又为什么要用微服务](https://blog.csdn.net/world6/article/details/79114105)
  * [一分钟弄懂什么是分布式和微服务](https://blog.csdn.net/zhonglunsheng/article/details/83153451)
  * [一篇读懂分布式架构下的负载均衡技术：分类、原理、算法、常见方案等](http://www.52im.net/thread-2494-1-1.html)
  * [新手入门：零基础理解大型分布式架构的演进历史、技术原理、最佳实践](http://www.52im.net/thread-2007-1-1.html)
