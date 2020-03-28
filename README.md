@@ -121,6 +121,7 @@
  * 大型网站技术核心原理与案例分析
  
  # 有用的参考
+ * [2020 Java面试题最新(七分布式篇)](https://blog.csdn.net/weixin_43291173/article/details/104282183)
  * [为什么要用分布式架构，又为什么要用微服务](https://blog.csdn.net/world6/article/details/79114105)
  * [一分钟弄懂什么是分布式和微服务](https://blog.csdn.net/zhonglunsheng/article/details/83153451)
  * [一篇读懂分布式架构下的负载均衡技术：分类、原理、算法、常见方案等](http://www.52im.net/thread-2494-1-1.html)
