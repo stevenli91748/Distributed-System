@@ -127,6 +127,9 @@
  * 大型网站技术核心原理与案例分析
  
  # 有用的参考
+ * [分布式缓存架构设计](https://www.jianshu.com/p/39c9a48bd704)
+ 
+ 
  * [ Mesos， Docker， Marathon/Chronos,  RabbitMQ,  HDFS/Ceph构成了一个完整的分布式系统](https://blog.csdn.net/hackstoic/article/details/50574886)
  * [2020 Java面试题最新(七分布式篇)](https://blog.csdn.net/weixin_43291173/article/details/104282183)
  * [为什么要用分布式架构，又为什么要用微服务](https://blog.csdn.net/world6/article/details/79114105)
