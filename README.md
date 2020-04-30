@@ -66,6 +66,7 @@
                                                          designed for microservices, cloud native and container-based (Docker, K8s,
                                                          Mesos) architectures.
      * [全面的深入学习Skywalking](https://www.bilibili.com/video/BV1ZJ411s7Mn?from=search&seid=4920628030984643892)
+     * [蚂蚁金服分布式链路跟踪组件 SOFATracer 总览](https://www.sofastack.tech/blog/sofa-tracer-overview/)
 ## [8. 分布式协调 ](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/README.md)
  *   [Zookeeper](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/Zookeeper.md)
  
