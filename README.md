@@ -65,6 +65,9 @@
  *   [分布式链路追踪](http://bigbully.github.io/Dapper-translation/)
      * [蚂蚁金服分布式链路跟踪组件 SOFATracer 总览](https://www.sofastack.tech/blog/sofa-tracer-overview/)
      * Pinpoint
+     * [twitter zipkin](https://zipkin.io/)
+     * [阿里的鹰眼](https://www.slideshare.net/terryice/eagleeye-with-taobaojavaone)
+     * [美团的MTrace](https://tech.meituan.com/2016/10/14/mt-mtrace.html)
  *   [Apache SkyWalking](http://skywalking.apache.org)---Application performance monitor tool for distributed systems, especially
                                                          designed for microservices, cloud native and container-based (Docker, K8s,
                                                          Mesos) architectures.
