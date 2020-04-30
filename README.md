@@ -104,6 +104,7 @@
 ##  3.  Spring Cloud
 . 
 # 分布式视频
+ * [项目搭建“天眼”Java大规模分布式跟踪监控系统（实战项目）](https://www.bilibili.com/video/BV1gZ4y1x7VM?p=6)
  * [大型分布式网站架构技术](https://www.bilibili.com/video/av64277303)
  * [B站最全最详细的分布式架构学习视频全集](https://www.bilibili.com/video/BV1aJ411Y73e/?spm_id_from=333.788.videocard.0)
  * [分布式基础专题](https://www.bilibili.com/video/av65840085/?spm_id_from=333.788.videocard.19)
