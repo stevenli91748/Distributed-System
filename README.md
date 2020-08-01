@@ -95,6 +95,8 @@
 
 ## [16. 分布式会话]()
 
+   * [阿里P8架构师谈：分布式Session共享的4类技术方案，与优劣势比较](https://youzhixueyuan.com/4-kinds-of-schemes-for-distributed-session-sharing.html)
+
 #  [分布式服务框架](https://github.com/stevenli91748/Distributed-System/tree/master/Service%20framework)
 
 ## [1.  常用的 RPC 框架](https://github.com/stevenli91748/Distributed-System/blob/master/Service%20framework/RPC.md)
