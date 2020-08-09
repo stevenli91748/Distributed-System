@@ -140,7 +140,7 @@
  
  # 有用的参考
  * [分布式缓存架构设计](https://www.jianshu.com/p/39c9a48bd704)
- 
+ * [一口气说出9种分布式ID生成方式，阿里面试官都懵了](https://zhuanlan.zhihu.com/p/152179727?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
  * [这几种常见的“分布式锁”写法，搞懂再也不怕面试官](https://www.jianshu.com/p/07614d9542c4)
  * [ Mesos， Docker， Marathon/Chronos,  RabbitMQ,  HDFS/Ceph构成了一个完整的分布式系统](https://blog.csdn.net/hackstoic/article/details/50574886)
  * [2020 Java面试题最新(七分布式篇)](https://blog.csdn.net/weixin_43291173/article/details/104282183)
