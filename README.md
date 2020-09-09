@@ -15,6 +15,10 @@
 
 
 
+[分布式系统各个节点状态如何同步](https://zhuanlan.zhihu.com/p/159136843?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+---|
+
+
 # [分布式系统基础知识](https://github.com/stevenli91748/Distributed-System/tree/master/Fundametal%20knowledge)
 
 # [分布式系统架构体系](https://github.com/stevenli91748/Distributed-System/tree/master/Architecture)
