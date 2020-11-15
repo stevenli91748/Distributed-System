@@ -19,6 +19,11 @@
 [分布式系统各个节点状态如何同步](https://zhuanlan.zhihu.com/p/159136843?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|
 
+[疯狂创客圈 IM---从0开始100w分布式 Java 高并发、分布式应用实战](https://gitee.com/crazymaker/crazy_tourist_circle__im)|
+---|
+
+
+
 
 # [分布式系统基础知识](https://github.com/stevenli91748/Distributed-System/tree/master/Fundametal%20knowledge)
 
