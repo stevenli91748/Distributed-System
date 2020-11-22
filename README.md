@@ -16,8 +16,8 @@
 [两万字深度介绍分布式系统原理，一文入魂](https://www.cnblogs.com/luckcs/articles/11235559.html)|[「分布式系统理论」系列专题，历时9个月完结](https://mp.weixin.qq.com/s?__biz=MzA3ODIxNjYxNQ==&mid=2247487132&amp;idx=1&amp;sn=24b36143d7ab742ad1ff4b23d8dec0a3&source=41#wechat_redirect)|
 ---|---|
 
-[分布式系统各个节点状态如何同步](https://zhuanlan.zhihu.com/p/159136843?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
----|
+[分布式系统各个节点状态如何同步](https://zhuanlan.zhihu.com/p/159136843?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[Vagrant---分布式开发的环境配置工具](https://jimmysong.io/blog/vagrant-intro/)|
+---|---|
 
 [疯狂创客圈 IM---从0开始100w分布式 Java 高并发、分布式应用实战](https://gitee.com/crazymaker/crazy_tourist_circle__im)|
 ---|
