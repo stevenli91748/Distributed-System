@@ -149,7 +149,8 @@
  * 大型网站技术核心原理与案例分析
  
  # 有用的参考
- * []()
+ * [强！强！强！13张图彻底搞懂分布式系统服务注册与发现原理](https://www.jianshu.com/p/e882e535a6b3)
+ * [面试官问了我分布式事务](https://www.jianshu.com/p/70e4ca5e7c53)
  * [数据库并发控制](https://zhuanlan.zhihu.com/p/168672853?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
  * [分布式缓存架构设计](https://www.jianshu.com/p/39c9a48bd704)
  * [一口气说出9种分布式ID生成方式，阿里面试官都懵了](https://zhuanlan.zhihu.com/p/152179727?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
