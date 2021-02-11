@@ -28,9 +28,9 @@
 
 
 
-# [分布式系统基础知识](https://github.com/stevenli91748/Distributed-System/tree/master/Fundametal%20knowledge)
+# [1. 分布式系统基础知识](https://github.com/stevenli91748/Distributed-System/tree/master/Fundametal%20knowledge)
 
-# [分布式系统架构体系](https://github.com/stevenli91748/Distributed-System/tree/master/Architecture)
+# [2. 分布式系统架构体系](https://github.com/stevenli91748/Distributed-System/tree/master/Architecture)
 
  *  基于对象的体系结构
  *  面向服务的架构 （SOA）
@@ -40,38 +40,38 @@
  *  Serverless 架构
 
 
-#  [分布式系统的种类](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/README.md)
+#  [3. 分布式系统的种类](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/README.md)
 
-## [1.  分布式操作系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20operation%20system/README.md)
+## [1. 分布式操作系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20operation%20system/README.md)
 
-## [2.  分布式缓存系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/distribute%20cache/README.md)
+## [2. 分布式缓存系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/distribute%20cache/README.md)
  *  分布式缓存的实现
  *  [Redis](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
 
-## [3.  分布式计算系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/distribute%20computing%20system/README.md)
+## [3. 分布式计算系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/distribute%20computing%20system/README.md)
  *  MapReduce
  *  Hadoop
  *  Spark
  *  Mesos
  
-## [4.  分布式文件系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distribute%20file%20system/README.md)
+## [4. 分布式文件系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distribute%20file%20system/README.md)
  *  分布式文件系统的实现
 
-## [5.  分布式存储系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distribute%20storage%20system/README.md)
+## [5. 分布式存储系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distribute%20storage%20system/README.md)
  *   Bigtable
  *   HBase
  *   Cassandra
  *   Memcached
  *   MongoDB
  
-## [6.  分布式消息服务系统](https://github.com/stevenli91748/Message-Server-System/blob/master/README.md)
+## [6. 分布式消息服务系统](https://github.com/stevenli91748/Message-Server-System/blob/master/README.md)
  *   分布式消息队列的实现
  *   ActiveMQ
  *   RabbitMQ
  *   RocketMQ
  *   kafka
 
-## [7.  分布式监控](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distribute%20moniter%20system/README.md)
+## [7. 分布式监控](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distribute%20moniter%20system/README.md)
  *   Nagios
  *   Zabbix
  *   Consul
@@ -89,7 +89,7 @@
 ## [8. 分布式协调 ](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/README.md)
  *   [Zookeeper](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/Zookeeper.md)
  
-## [9.  分布式版本控制系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distribute%20version%20control/README.md)
+## [9. 分布式版本控制系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distribute%20version%20control/README.md)
  *   Bazaar
  *   Mercurial
  *   Git
@@ -98,7 +98,7 @@
 
 ## [11. 分布式锁]()
 
-## [12.分布式搜索系统]()
+## [12  分布式搜索系统]()
 
 ## [13. 分布式配置中心]()
 
@@ -109,15 +109,23 @@
 ## [16. 分布式会话]()
 
    * [阿里P8架构师谈：分布式Session共享的4类技术方案，与优劣势比较](https://youzhixueyuan.com/4-kinds-of-schemes-for-distributed-session-sharing.html)
+   
+## 17 分布式ID   
+## 18 分布式任务调度
+## 19 分布式限流
+## 20 分库分表
 
-#  [分布式服务框架](https://github.com/stevenli91748/Distributed-System/tree/master/Service%20framework)
+#  [4. 分布式服务框架](https://github.com/stevenli91748/Distributed-System/tree/master/Service%20framework)
 
-## [1.  常用的 RPC 框架](https://github.com/stevenli91748/Distributed-System/blob/master/Service%20framework/RPC.md)
+## [4.1  常用的 RPC 框架](https://github.com/stevenli91748/Distributed-System/blob/master/Service%20framework/RPC.md)
 
-##  2. Dubbo
+##  4.2  Dubbo
 
-##  3.  Spring Cloud
-. 
+##  4.3  Spring Cloud
+
+
+
+
 # 分布式视频
  * [项目搭建“天眼”Java大规模分布式跟踪监控系统（实战项目）](https://www.bilibili.com/video/BV1gZ4y1x7VM?p=6)
  * [大型分布式网站架构技术](https://www.bilibili.com/video/av64277303)
