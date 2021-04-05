@@ -16,8 +16,8 @@
 **分布式系统包括： 分布式应用，分布式数据库，分布式文件系统**
 
 
-[两万字深度介绍分布式系统原理，一文入魂](https://www.cnblogs.com/luckcs/articles/11235559.html)|[「分布式系统理论」系列专题，历时9个月完结](https://mp.weixin.qq.com/s?__biz=MzA3ODIxNjYxNQ==&mid=2247487132&amp;idx=1&amp;sn=24b36143d7ab742ad1ff4b23d8dec0a3&source=41#wechat_redirect)|
----|---|
+[两万字深度介绍分布式系统原理，一文入魂](https://www.cnblogs.com/luckcs/articles/11235559.html)|[「分布式系统理论」系列专题，历时9个月完结](https://mp.weixin.qq.com/s?__biz=MzA3ODIxNjYxNQ==&mid=2247487132&amp;idx=1&amp;sn=24b36143d7ab742ad1ff4b23d8dec0a3&source=41#wechat_redirect)|[一步一图，带你了解分布式架构的前世今生](https://developer.51cto.com/art/201906/597667.htm)|
+---|---|---|
 
 [分布式系统各个节点状态如何同步](https://zhuanlan.zhihu.com/p/159136843?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[Vagrant---分布式开发的环境配置工具](https://jimmysong.io/blog/vagrant-intro/)|
 ---|---|
