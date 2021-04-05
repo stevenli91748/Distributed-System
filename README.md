@@ -160,6 +160,7 @@
  * 大型网站技术核心原理与案例分析
  
  # 有用的参考
+ * [看一眼就能懂的“分布式锁”原理](https://developer.51cto.com/art/201906/597620.htm)
  * [我个人的分布式集群问题集锦，nginx/lvs/dns/cdn](https://blog.csdn.net/libaineu2004/article/details/79119145)
  * [强！强！强！13张图彻底搞懂分布式系统服务注册与发现原理](https://www.jianshu.com/p/e882e535a6b3)
  * [面试官问了我分布式事务](https://www.jianshu.com/p/70e4ca5e7c53)
