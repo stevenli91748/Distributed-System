@@ -26,8 +26,8 @@
 [疯狂创客圈 IM---从0开始100w分布式 Java 高并发、分布式应用实战](https://gitee.com/crazymaker/crazy_tourist_circle__im)|
 ---|
 
-[分布式高性能高可用架构到底怎么做](https://zhuanlan.zhihu.com/p/145015244)|
----|
+[分布式高性能高可用架构到底怎么做](https://zhuanlan.zhihu.com/p/145015244)|[分布式系统CAP选择](https://www.yuque.com/yulongsun/java/ugg3tt)|
+---|---|
 
 # [分布式系统的技术栈](https://zhuanlan.zhihu.com/p/336838942)
   * 分布式通信技术---因为业务拆分的多，业务对应的模块之间就需要通信，为了保证通信的快速可靠，我们需要掌握分布式通信技术
