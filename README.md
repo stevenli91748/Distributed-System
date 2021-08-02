@@ -12,8 +12,8 @@
 
 <a href="https://ibb.co/7YrpfWW"><img src="https://i.ibb.co/xCzgkjj/image.png" alt="image" border="0"></a>
 
-[架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://zhuanlan.zhihu.com/p/336838942)|
----|
+[架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://zhuanlan.zhihu.com/p/336838942)|[分布式事务的七种解决方案](https://www.jianshu.com/p/d77a6bb0b07f)|
+---|---|
 
 
 [两万字深度介绍分布式系统原理，一文入魂](https://www.cnblogs.com/luckcs/articles/11235559.html)|[「分布式系统理论」系列专题，历时9个月完结](https://mp.weixin.qq.com/s?__biz=MzA3ODIxNjYxNQ==&mid=2247487132&amp;idx=1&amp;sn=24b36143d7ab742ad1ff4b23d8dec0a3&source=41#wechat_redirect)|[一步一图，带你了解分布式架构的前世今生](https://developer.51cto.com/art/201906/597667.htm)|
