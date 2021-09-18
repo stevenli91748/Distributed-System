@@ -12,6 +12,15 @@
 
 <a href="https://ibb.co/7YrpfWW"><img src="https://i.ibb.co/xCzgkjj/image.png" alt="image" border="0"></a>
 
+
+# 在线书籍
+
+* [分布式系统设计实践---2019](https://weread.qq.com/web/reader/df832b00719db449df881a6)
+
+
+
+# 目录
+
 [架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://zhuanlan.zhihu.com/p/336838942)|[分布式事务的七种解决方案](https://www.jianshu.com/p/d77a6bb0b07f)|
 ---|---|
 
