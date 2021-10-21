@@ -171,7 +171,14 @@
 ##  4.3  Spring Cloud
 
 
+# 分布式技术
 
+● [发号机制；生成唯一的ID](https://weread.qq.com/web/reader/2fe329c071e041322feb53dk3c5327902153c59dc0488e1)
+● [分布式数据库](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkb6d32b90216b6d767d2f0dc)
+● [分布式数据库事务](https://weread.qq.com/web/reader/2fe329c071e041322feb53dk37632cd021737693cfc7149)
+● [基于Redis的分布式缓存](https://weread.qq.com/web/reader/2fe329c071e041322feb53dk1ff325f02181ff1de7742fc)
+● [分布式会话；](https://weread.qq.com/web/reader/2fe329c071e041322feb53dk8e232ec02198e296a067180)
+● [分布式安全认证。](https://weread.qq.com/web/reader/2fe329c071e041322feb53dk4e73277021a4e732ced3b55)
 
 # 分布式视频
  * [项目搭建“天眼”Java大规模分布式跟踪监控系统（实战项目）](https://www.bilibili.com/video/BV1gZ4y1x7VM?p=6)
