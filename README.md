@@ -149,7 +149,7 @@
 
 ## [13. 分布式配置中心]()
 
-## [14. 分布式日志中心]()
+## [14. 分布式日志中心](https://github.com/stevenli91748/Distributed-System/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E6%97%A5%E5%BF%97%E4%B8%AD%E5%BF%83/README.md)
 
 ## [15. 分布式监控告警中心]()
 
