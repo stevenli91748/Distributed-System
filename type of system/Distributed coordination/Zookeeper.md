@@ -14,4 +14,4 @@
 # 有用的参考
 
 * [七张图彻底讲清楚ZooKeeper分布式锁的实现原理](https://juejin.im/post/5c01532ef265da61362232ed)
-
+* [ZooKeeper的作用、应用场景和替代品](https://juejin.cn/post/6844904130633269256#heading-9)
