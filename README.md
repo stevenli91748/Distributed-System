@@ -134,8 +134,8 @@
      * [全面的深入学习Skywalking](https://www.bilibili.com/video/BV1ZJ411s7Mn?from=search&seid=4920628030984643892)
      
 ## [8. 分布式协调 ](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/README.md)
- *   [Zookeeper](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/Zookeeper.md)
- 
+   * [Zookeeper](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/Zookeeper.md)
+   * [Etcd]()
 ## [9. 分布式版本控制系统](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distribute%20version%20control/README.md)
  *   Bazaar
  *   Mercurial
