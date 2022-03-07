@@ -19,6 +19,8 @@
 * [分布式系统开发实战---2021](https://weread.qq.com/web/reader/8c7321b07233d34a8c7b2cd)
 * [深入理解分布式事务： 原理与实战 2021 冰河  非常好](https://weread.qq.com/web/reader/e023288072765619e02da31)
 
+
+
 # 目录
 
 [架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://zhuanlan.zhihu.com/p/336838942)|[分布式事务的七种解决方案](https://www.jianshu.com/p/d77a6bb0b07f)|
