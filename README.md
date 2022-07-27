@@ -18,7 +18,7 @@
 * [分布式系统设计实践---2019](https://weread.qq.com/web/reader/df832b00719db449df881a6)
 * [分布式系统开发实战---2021](https://weread.qq.com/web/reader/8c7321b07233d34a8c7b2cd)
 * [深入理解分布式事务： 原理与实战 2021 冰河  非常好](https://weread.qq.com/web/reader/e023288072765619e02da31)
-
+* [深入分布式缓存：从原理到实践](https://weread.qq.com/web/reader/98a323b05e0b5e98afa107c)
 
 
 # 目录
