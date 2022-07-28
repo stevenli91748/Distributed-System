@@ -22,7 +22,7 @@
 * [分布式微服务架构： 原理与实战---2019](https://weread.qq.com/web/reader/01b3264071a4952901b85ab)
 * [微服务分布式架构开发实战](https://weread.qq.com/web/reader/d19329f0715a41a7d19438bkc81322c012c81e728d9d180)
 * [深入分布式缓存：从原理到实践](https://weread.qq.com/web/reader/98a323b05e0b5e98afa107c)
-
+* [分布式中间件技术实战：Java版](https://weread.qq.com/web/reader/84a3272071a1a78c84a17f9)
 
 # 目录
 
