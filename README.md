@@ -24,6 +24,11 @@
 * [深入分布式缓存：从原理到实践](https://weread.qq.com/web/reader/98a323b05e0b5e98afa107c)
 * [分布式中间件技术实战：Java版](https://weread.qq.com/web/reader/84a3272071a1a78c84a17f9)
 
+# 分布式系统视频
+* [【柳天平】亿万级高并发分布式系统架构](https://www.youtube.com/watch?v=p4pFGJJUkJ8)
+
+
+
 # 目录
 
 [架构师的成长之路，第一步该怎么迈？我给大家准备好了](https://zhuanlan.zhihu.com/p/336838942)|[分布式事务的七种解决方案](https://www.jianshu.com/p/d77a6bb0b07f)|
