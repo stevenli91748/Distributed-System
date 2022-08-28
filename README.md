@@ -153,7 +153,8 @@
  
 ## [10. 分布式事务](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/transection/分布式事务.md)
 
-## [11. 分布式锁]()
+## 11. 分布式锁
+   * [分布式锁最强王者解决方案：Redisson！](https://mp.weixin.qq.com/s/dOtmDwjRXGTZq0U4rDcWDg)
 
 ## [12  分布式搜索系统]()
 
