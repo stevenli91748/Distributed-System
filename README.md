@@ -23,6 +23,7 @@
 * [微服务分布式架构开发实战](https://weread.qq.com/web/reader/d19329f0715a41a7d19438bkc81322c012c81e728d9d180)
 * [深入分布式缓存：从原理到实践](https://weread.qq.com/web/reader/98a323b05e0b5e98afa107c)
 * [分布式中间件技术实战：Java版](https://weread.qq.com/web/reader/84a3272071a1a78c84a17f9)
+* [分布式系统架构与开发：技术原理与面试题解析](https://weread.qq.com/web/reader/779327d0813ab77acg01195a)
 * [从Paxos分布式共识算法到Zookeeper：分布式一致性原理与实践](https://weread.qq.com/web/bookDetail/02f32060811e3d012g010566)
 # 分布式系统视频
 * [【柳天平】亿万级高并发分布式系统架构](https://www.youtube.com/watch?v=p4pFGJJUkJ8)
