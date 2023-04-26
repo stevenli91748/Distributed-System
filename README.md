@@ -157,7 +157,7 @@
 
 ## 11. 分布式锁
    * [分布式锁最强王者解决方案：Redisson！](https://mp.weixin.qq.com/s/dOtmDwjRXGTZq0U4rDcWDg)
-
+   * [Redis分布式锁这一篇应该是讲的最好的了，先收藏起来再看！](https://segmentfault.com/a/1190000038439299?utm_source=sf-similar-article)
 ## [12  分布式搜索系统]()
 
 ## [13. 分布式配置中心]()
