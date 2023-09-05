@@ -156,6 +156,7 @@
 ## [10. 分布式事务](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/transection/分布式事务.md)
 
 ## 11. 分布式锁
+   * [【尚硅谷】分布式锁全家桶](https://www.youtube.com/watch?v=CcMVMRTS-eU&list=PLmOn9nNkQxJGfduuVvvZizYOA6bWvucae)
    * [分布式锁最强王者解决方案：Redisson！](https://mp.weixin.qq.com/s/dOtmDwjRXGTZq0U4rDcWDg)
    * [Redis分布式锁这一篇应该是讲的最好的了，先收藏起来再看！](https://segmentfault.com/a/1190000038439299?utm_source=sf-similar-article)
 ## [12  分布式搜索系统]()
